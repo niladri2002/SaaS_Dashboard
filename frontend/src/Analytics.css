@@ -1,0 +1,38 @@
+.analytics-page {
+    padding: 20px;
+  }
+  
+  .summary-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+  }
+  
+  .card h3 {
+    margin: 0;
+  }
+  
+  .monthly-data ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .monthly-data li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  .monthly-data li strong {
+    font-weight: bold;
+  }
+  
